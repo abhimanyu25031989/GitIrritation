@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SyncAdapter</string>
+    <string name="action_sync">sync</string>
+    <string name="account_type">example.com.abhi.syncadapter</string>
+</resources>

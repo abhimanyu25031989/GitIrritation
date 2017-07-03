@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileAppAd</string>
+    <string name="banner_home_footer">ca-app-pub-4286342344641684/8844364259</string>
+    <string name="interstitial_full_screen">ca-app-pub-4286342344641684/1600299052</string>
+</resources>
